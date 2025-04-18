@@ -1,0 +1,7 @@
+{
+    "idf.openOcdConfigs": [
+        "board/esp32c6-ftdi.cfg"
+    ],
+    "idf.portWin": "COM46",
+    "idf.flashType": "UART"
+}

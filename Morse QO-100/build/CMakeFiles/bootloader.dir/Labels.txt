@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Dropbox/ESP-IDF/Morse QO-100/build/CMakeFiles/bootloader
+D:/Dropbox/ESP-IDF/Morse QO-100/build/CMakeFiles/bootloader.rule
+D:/Dropbox/ESP-IDF/Morse QO-100/build/CMakeFiles/bootloader-complete.rule
+D:/Dropbox/ESP-IDF/Morse QO-100/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Dropbox/ESP-IDF/Morse QO-100/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Dropbox/ESP-IDF/Morse QO-100/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Dropbox/ESP-IDF/Morse QO-100/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Dropbox/ESP-IDF/Morse QO-100/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Dropbox/ESP-IDF/Morse QO-100/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Dropbox/ESP-IDF/Morse QO-100/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
